@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=XcMap
+Comment=Flight Computer
+Icon=/home/pi/XcMap/airplane.png
+Exec=/home/pi/XcMap/run.sh
+Terminal=true
+Type=Application
+NotShowIn=LXDE
+X-Ubuntu-Gettext-Domain=xcmap
+
+
+
+
+
+
+
+
